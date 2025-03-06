@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Mar  6 18:19:35 2025
+# Process ID: 30360
+# Current directory: D:/Mouse_fpga/mouse_fpga/mouse_fpga.runs/synth_1
+# Command line: vivado.exe -log TopLevelCircuit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TopLevelCircuit.tcl
+# Log file: D:/Mouse_fpga/mouse_fpga/mouse_fpga.runs/synth_1/TopLevelCircuit.vds
+# Journal file: D:/Mouse_fpga/mouse_fpga/mouse_fpga.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TopLevelCircuit.tcl -notrace
